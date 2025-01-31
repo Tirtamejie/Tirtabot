@@ -1,7 +1,8 @@
 {
-    "allowedNumbers": [
+    "numbers": [
         "6283873536399",
         "6289876543210",
         "6287654321098"
-    ]
+    ],
+    "description": "Daftar nomor yang diizinkan menggunakan bot"
 }
