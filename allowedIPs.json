@@ -1,0 +1,7 @@
+{
+  "ips": [
+    "123.45.67.89",
+    "112.215.229.153"
+    // Tambahkan IP address yang diizinkan
+  ]
+}
